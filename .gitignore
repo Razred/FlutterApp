@@ -40,3 +40,8 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+/build/60174d55e68f3dda7a4fc306b6d282d5/
+/build/flutter_assets/
+/build/flutter_windowmanager/
+/build/path_provider_android/
+/build/sqflite/
