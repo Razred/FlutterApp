@@ -1,0 +1,12 @@
+io.adaptant.labs.flutter_windowmanager-core-1.6.0-0 C:\Users\USER\.gradle\caches\transforms-3\284a410c767ad6c7a2b0ffc8d8d85981\transformed\core-1.6.0\res
+io.adaptant.labs.flutter_windowmanager-jetified-window-java-1.0.0-beta04-1 C:\Users\USER\.gradle\caches\transforms-3\2a215381204751055df81b6269e717b7\transformed\jetified-window-java-1.0.0-beta04\res
+io.adaptant.labs.flutter_windowmanager-jetified-annotation-experimental-1.1.0-2 C:\Users\USER\.gradle\caches\transforms-3\3d2f03fc996c2e0aa3dee5cfa3002cd1\transformed\jetified-annotation-experimental-1.1.0\res
+io.adaptant.labs.flutter_windowmanager-jetified-window-1.0.0-beta04-3 C:\Users\USER\.gradle\caches\transforms-3\f302e75fb7efd781bcf1a29281c188da\transformed\jetified-window-1.0.0-beta04\res
+io.adaptant.labs.flutter_windowmanager-pngs-4 C:\Users\USER\AndroidStudioProjects\flutter_app\build\flutter_windowmanager\generated\res\pngs\release
+io.adaptant.labs.flutter_windowmanager-resValues-5 C:\Users\USER\AndroidStudioProjects\flutter_app\build\flutter_windowmanager\generated\res\resValues\release
+io.adaptant.labs.flutter_windowmanager-rs-6 C:\Users\USER\AndroidStudioProjects\flutter_app\build\flutter_windowmanager\generated\res\rs\release
+io.adaptant.labs.flutter_windowmanager-mergeReleaseResources-7 C:\Users\USER\AndroidStudioProjects\flutter_app\build\flutter_windowmanager\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.adaptant.labs.flutter_windowmanager-mergeReleaseResources-8 C:\Users\USER\AndroidStudioProjects\flutter_app\build\flutter_windowmanager\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.adaptant.labs.flutter_windowmanager-merged_res-9 C:\Users\USER\AndroidStudioProjects\flutter_app\build\flutter_windowmanager\intermediates\merged_res\release
+io.adaptant.labs.flutter_windowmanager-main-10 C:\Users\USER\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_windowmanager-0.2.0\android\src\main\res
+io.adaptant.labs.flutter_windowmanager-release-11 C:\Users\USER\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_windowmanager-0.2.0\android\src\release\res
